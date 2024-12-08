@@ -29,31 +29,50 @@ export default function Home(){
   <div className='heading3'><h1>Top Picks For You</h1></div>
   <div className='line'>Find a bright ideal to suit your taste with our great selection of suspension, floor and table lights.</div>
 </div>
+<div className='chair'>
+  <div className='trenton'><img src="images/image4.png" alt="" />
+  <h1>Trenton modular sofa_3</h1>
+  <h2>Rs. 25,000.00</h2>
+  </div>
+  <div className='dining'> <img src="images/image5.png" alt="" />
+  <h1>Granite dining table with dining chair</h1>
+  <h2>Rs. 25,000.00</h2>
+  </div>
+  <div className='bar'><img src="images/image6.png" alt="" />
+  <h1>Outdoor bar table and stool</h1>
+  <h2>Rs. 25,000.00</h2>
+  </div>
+  <div className='plain'>
+    <img src="images/image7.png" alt="" />
+    <h1>Plain console with teak mirror</h1>
+    <h2>Rs. 25,000.00</h2>
+  </div>
+</div>
+{/* <table>
+  <tr>
+    <td>
+      <img src="images/image4.png" alt="Trenton modular sofa_3" />
+      <div className="product-name">Trenton modular sofa_3</div>
+      <div className="product-price">Rs. 25,000.00</div>
+    </td>
+    <td>
+      <img src="images/image5.png" alt="Granite dining table with dining chair" />
+      <div className="product-name">Granite dining table with dining chair</div>
+      <div className="product-price">Rs. 25,000.00</div>
+    </td>
+    <td className="stool">
+      <img src="images/image6.png" alt="Outdoor bar table and stool" />
+      <div className="product-name">Outdoor bar table and stool</div>
+      <div className="product-price">Rs. 25,000.00</div>
+    </td>
+    <td>
+      <img src="images/image7.png" alt="Plain console with teak mirror" />
+      <div className="product-name">Plain console with teak mirror</div>
+      <div className="product-price">Rs. 25,000.00</div>
+    </td>
+  </tr>
+</table> */}
 
-        <table>
-    <tr>
-      <td>
-        <img src ="images/image4.png" alt="Trenton modular sofa_3"/>
-        <div className="product-name">Trenton modular sofa_3</div>
-        <div className="product-price">Rs. 25,000.00</div>
-      </td>
-      <td>
-        <img src="images/image5.png" alt="Granite dining table with dining chair"/>
-        <div className="product-name">Granite dining table with dining chair</div>
-        <div className="product-price">Rs. 25,000.00</div>
-      </td>
-      <td className='stool'>
-        <img src="images/image6.png" alt="Outdoor bar table and stool"/>
-        <div className="product-name">Outdoor bar table and stool</div>
-        <div className="product-price">Rs. 25,000.00</div>
-      </td>
-      <td>
-        <img src="images/image7.png" alt="Plain console with teak mirror"/>
-        <div className="product-name">Plain console with teak mirror</div>
-        <div className="product-price">Rs. 25,000.00</div>
-      </td>
-    </tr>
-  </table>
   <div className='heading4'><h1>View More</h1></div>
 <div>
 
